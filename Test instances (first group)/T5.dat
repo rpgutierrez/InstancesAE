@@ -1,0 +1,8 @@
+num_empresas = 4;
+num_estandes = 2;
+budget = [1009, 1076, 1183, 818];
+tipo_empresa = [1, 1, 4, 3];
+relacionamento = [5, 5, 4, 3];
+edicoes = [5, 1, 1, 10];
+estandes_parede = [1, 1];
+distancia_estande = [0, 1];
